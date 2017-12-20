@@ -1,4 +1,4 @@
-Write a predicate to select the n-th element of a given list
+%Write a predicate to select the n-th element of a given list
 
 %select the n-th element from a list
 %get_elem(L-list, pos-int, R-int)
