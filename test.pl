@@ -1,3 +1,5 @@
+%Return a list with all positions of maximum element from a linear list
+
 max([],Max,Max).
 
 max([H|T],Max,R):-
