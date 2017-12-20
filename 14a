@@ -1,4 +1,4 @@
-Write a predicate to test equality of two sets without using the set difference.
+Write a predicate to test equality of two sets without using the set difference
 
 %test the equality of two sets
 %equality(L1 - list, L2 -list)
