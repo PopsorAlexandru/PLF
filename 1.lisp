@@ -1,3 +1,5 @@
+;For a given tree of type (A 2 B 0 C 2 D 0 E 0) return the path from the root node to a certain given node X
+
 (defun leftTree(l n m)
 	(cond
 		((null l) nil)
