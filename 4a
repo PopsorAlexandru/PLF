@@ -1,4 +1,4 @@
-Write a predicate to determine the sum of two numbers written in list representation
+Write a predicate to determine the sum of two numbers written in list representation.
 
 %reverse(L-list,R-list)
 %L - initial list which we want to reverse
